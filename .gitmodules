@@ -1,0 +1,12 @@
+[submodule "https:/github.com/ianchen0119/NP-4.git"]
+	path = NP-4
+	url = https://github.com/ianchen0119/NP-4
+[submodule "https:/github.com/ianchen0119/NP-3.git"]
+	path = NP-3
+	url = https://github.com/ianchen0119/NP-3
+[submodule "https:/github.com/ianchen0119/NP-2.git"]
+	path = NP-2
+	url = https://github.com/ianchen0119/NP-2
+[submodule "https:/github.com/ianchen0119/NP-1.git"]
+	path = NP-1
+	url = https://github.com/ianchen0119/NP-1
